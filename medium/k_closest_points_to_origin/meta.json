@@ -1,0 +1,13 @@
+{
+    "Problem Name": "K Closest Points to Origin",
+    "Problem URL": "https://leetcode.com/problems/k-closest-points-to-origin/",
+    "Tags": [
+        "sorting"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/k-closest-points-to-origin/submissions/924492293/",
+    "Runtime": "251ms",
+    "Memory": "57MB",
+    "Average Complexity": "O(nlogn)",
+    "Worst Complexity": "O(nlogn)"
+}

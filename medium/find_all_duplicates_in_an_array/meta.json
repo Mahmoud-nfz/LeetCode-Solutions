@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Find All Duplicates in an Array",
+    "Problem URL": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+    "Tags": [
+        "data structures",
+        "frequency array"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/923964114/",
+    "Runtime": "50ms",
+    "Memory": "34.8MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}

@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Reorder List",
+    "Problem URL": "https://leetcode.com/problems/reorder-list/",
+    "Tags": [
+        "linked list"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/reorder-list/submissions/924250174/",
+    "Runtime": "45ms",
+    "Memory": "19MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}

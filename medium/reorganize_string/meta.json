@@ -1,0 +1,11 @@
+{
+    "Problem Name" : "Reorganize String",
+    "Problem URL" : "https://leetcode.com/problems/reorganize-string/",
+    "Tags" : ["strings", "greedy","data structures"],
+    "Difficulty" : "medium",
+    "Submission" : "https://leetcode.com/problems/reorganize-string/submissions/896753468/",
+    "Runtime" : "7ms",
+    "Memory" : "6.8MB",
+    "Average Complexity" : "O(nlogn)",
+    "Worst Complexity" : "O(nlogn)"
+}

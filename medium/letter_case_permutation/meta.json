@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Letter Case Permutation",
+    "Problem URL": "https://leetcode.com/problems/letter-case-permutation/",
+    "Tags": [
+        "strings backtracking bruteforce"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/letter-case-permutation/submissions/924261677/",
+    "Runtime": "7ms",
+    "Memory": "11.6MB",
+    "Average Complexity": "O(2^n)",
+    "Worst Complexity": "O(2^n)"
+}

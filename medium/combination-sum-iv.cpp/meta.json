@@ -1,0 +1,12 @@
+{
+    "Problem Name" : "Combination Sum IV",
+    "Problem URL" : "https://leetcode.com/problems/combination-sum-iv/",
+    "Tags" : ["DP"],
+    "Difficulty" : "Medium",
+    "Solution" : "https://leetcode.com/problems/combination-sum-iv/discuss/85036/1ms-Java-DP-Solution-with-Detailed-Explanation",
+    "Submission" : "https://leetcode.com/problems/combination-sum-iv/submissions/924322039/",
+    "Runtime" : "6 ms",
+    "Memory" : "7.8 MB",
+    "Average Complexity" : "O(target * nums.length)",
+    "Worst Complexity" : "O(target * nums.length)"
+}

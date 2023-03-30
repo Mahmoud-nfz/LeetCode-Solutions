@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Binary Tree Level Order Traversal",
+    "Problem URL": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "Tags": [
+        "binary tree"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/923976019/",
+    "Runtime": "7ms",
+    "Memory": "12.5MB",
+    "Average Complexity": "O(nodes)",
+    "Worst Complexity": "O(nodes)"
+}

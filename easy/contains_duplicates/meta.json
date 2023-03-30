@@ -1,0 +1,11 @@
+{
+    "Problem Name" : "Contains Duplicate",
+    "Problem URL" : "https://leetcode.com/problems/contains-duplicate/",
+    "Tags" : ["Hash Map", "Data Structures"],
+    "Difficulty" : "Easy",
+    "Submission" : "https://leetcode.com/problems/contains-duplicate/submissions/896658105/",
+    "Runtime" : "141ms",
+    "Memory" : "69.5MB",
+    "Average Complexity" : "O(n)",
+    "Worst Complexity" : "O(n) Amortized"
+}
