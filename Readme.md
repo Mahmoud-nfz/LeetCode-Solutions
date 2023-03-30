@@ -1,5 +1,11 @@
 # LeetCode Solutions
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/65515933/228696522-e369c0b8-edf2-4c5e-99fc-e329ceac819a.png" alt="Software Project Ideas">
+</div>
+
+---
+
 This repository contains a collection of solutions to problems from the LeetCode platform, written in C++ programming language. The solutions are explained with comments to help with understanding.
 
 ## Structure of the Repository
