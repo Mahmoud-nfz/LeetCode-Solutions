@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Jump Game",
+    "Problem URL": "https://leetcode.com/problems/jump-game/",
+    "Tags": [
+        "dp"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/jump-game/submissions/924950525/",
+    "Runtime": "77ms",
+    "Memory": "52.6MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}
