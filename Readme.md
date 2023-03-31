@@ -12,14 +12,23 @@ This repository contains a collection of solutions to problems from the LeetCode
 
 The repository is organized according to the problem's difficulty level and its respective question number. Each problem contains a `.cpp` file that contains the solution to the problem along with comments.
 
+---
+
 ## Contributing
 
 If you find a problem whose solution is not included in the repository, feel free to contribute by submitting a pull request.
 
-## Disclaimer
+### Steps to contribute:
 
-These solutions are provided for educational purposes only, and are not intended to be used in any production code.
+- Fork the repository
+- Clone the forked repository
+- Create a new branch
+- Run **`add_solution.py`** script to launch the prompt of adding a new problem and generating the files for it
+- Add your explained solution in the **`Solution.cpp`** file
+- Add the problem statement in the **`statement.html`** file
+- Commit and push the changes
+- Create a pull request
 
-## License
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+
