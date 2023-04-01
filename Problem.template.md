@@ -1,5 +1,7 @@
 # Problem : {problem.title}
 
+### Difficulty : **{problem.difficulty}**
+
 {problem.url}
 
 ---
@@ -8,7 +10,7 @@
 
 ### Relevant Tutorials :
 
-* {problem.tutorials}
+{problem.tutorials}
 
 ---
 
