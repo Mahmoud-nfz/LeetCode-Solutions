@@ -1,0 +1,16 @@
+{
+    "Problem Name": "Make K-Subarray Sums Equal",
+    "Problem URL": "https://leetcode.com/contest/biweekly-contest-101/problems/make-k-subarray-sums-equal/",
+    "Tags": [
+        "arrays",
+        "dsu"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/contest/biweekly-contest-101/submissions/detail/926021698/",
+    "Runtime": "313 ms",
+    "Memory": "143.4 MB",
+    "Average Complexity": "O(n+k)",
+    "Worst Complexity": "O(n+k)",
+    "Contest": true,
+    "Contest Name": "Biweekly Contest 101"
+}

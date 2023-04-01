@@ -1,0 +1,16 @@
+{
+    "Problem Name": "Form Smallest Number From Two Digit Arrays",
+    "Problem URL": "https://leetcode.com/contest/biweekly-contest-101/problems/form-smallest-number-from-two-digit-arrays/",
+    "Tags": [
+        "arrays"
+    ],
+    "Difficulty": "Easy",
+    "Submission": "https://leetcode.com/contest/biweekly-contest-101/submissions/detail/925947323/",
+    "Runtime": "7ms",
+    "Memory": "21.8MB",
+    "Average Complexity": "O(nlogn)",
+    "Worst Complexity": "O(nlogn)",
+    "Contest": true,
+    "Contest Name": "Biweekly Contest 101",
+    "Contest URL": "https://leetcode.com/contest/biweekly-contest-101/"
+}

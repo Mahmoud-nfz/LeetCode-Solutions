@@ -1,0 +1,16 @@
+{
+    "Problem Name": "Find the Substring With Maximum Cost",
+    "Problem URL": "https://leetcode.com/contest/biweekly-contest-101/problems/find-the-substring-with-maximum-cost/",
+    "Tags": [
+        "arrays"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/contest/biweekly-contest-101/submissions/detail/925959166/",
+    "Runtime": "29ms",
+    "Memory": "42.5MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)",
+    "Contest": true,
+    "Contest Name": "Biweekly Contest 101",
+    "Contest URL": "https://leetcode.com/contest/biweekly-contest-101/"
+}
