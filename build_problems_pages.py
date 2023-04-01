@@ -95,5 +95,13 @@ print("Summary:\nPages generated with ",end="")
 print(
     Fore.GREEN + f"{flags['success']}" + Style.RESET_ALL + " Successful "
     + Fore.RED + f"{flags['error']}" + Style.RESET_ALL + " Errors "
-    + Fore.YELLOW + f"{flags['error']}" + Style.RESET_ALL + " Warnings "
+    + Fore.YELLOW + f"{flags['warning']}" + Style.RESET_ALL + " Warnings "
 )
+import sys
+
+# if some condition is not met, exit with a non-zero exit code
+if flags["error"] > 0:
+    print("Commit failed: There are some errors")
+    sys.exit(1)
+sys.exit(0)
+
