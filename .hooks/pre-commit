@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Run build_problems_pages.py and capture the exit code
+python3 build_problems_pages.py
+exit_code=$?
+
+# Check the exit code
+if [ $exit_code -ne 0 ]; then
+  echo "Error: build_problems_pages.py failed. Please fix the issues and try again." >&2
+  exit 1
+else
+  echo "All checks passed. Adding changed files to the commit."
+  git add .
+  echo "Committing changes."
+fi
