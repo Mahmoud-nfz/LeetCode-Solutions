@@ -8,13 +8,15 @@
 
 This repository contains a collection of solutions to problems from the LeetCode platform, written in C++ programming language. The solutions are explained with comments to help with understanding.
 
+For contributing : see [Contributing](#Contributing) section.
+
 ## Structure of the Repository
 
 The repository is organized according to the problem's difficulty level and its respective question number. Each problem contains a `.cpp` file that contains the solution to the problem along with comments.
 
 ---
 
-## Contributing
+## Contributing <a name="Contributing"></a>
 
 If you find a problem whose solution is not included in the repository, feel free to contribute by submitting a pull request.
 
@@ -27,6 +29,7 @@ If you find a problem whose solution is not included in the repository, feel fre
 - Add your explained solution in the **`Solution.cpp`** file
 - Add the problem statement in the **`statement.html`** file
 - Commit and push the changes
+- After pushing the changes, the markdown files for the problems you added will be generated automatically
 - Create a pull request
 
 
