@@ -1,18 +1,9 @@
 import os
+import sys
 import json
-import re
 from colorama import init, Fore, Style
-
-def remove_comments(content):
-    # Remove single-line comments
-    content = re.sub(r"//.*", "", content)
-    # Remove multi-line comments
-    content = re.sub(r"/\*.*?\*/", "", content, flags=re.DOTALL)
-    # Remove blank lines left by removing comments
-    content = "\n".join([line for line in content.split("\n") if line.strip() != ""])
-
-    return content
-
+from utils.update_readme import update_readme
+from utils.remove_comments import remove_comments
 
 template_path = "Problem.template.md"
 with open(template_path) as f:
@@ -22,7 +13,7 @@ base_dirs = ["./easy", "./medium", "./hard"]
 
 list_dirs = [os.listdir(base_dir) for base_dir in base_dirs if os.path.isdir(base_dir)]
 
-dirs = [os.path.join(base_dir, directory) for base_dir, directory_list in zip(base_dirs, list_dirs) for directory in directory_list]
+dirs = [(os.path.join(base_dir, directory),base_dir) for base_dir, directory_list in zip(base_dirs, list_dirs) for directory in directory_list]
 
 flags = {
     "success" : 0,
@@ -33,10 +24,11 @@ flags = {
 # add all folders in all the folders in './contest' to dirs
 contest_dirs = [os.path.join("./contest", directory) for directory in os.listdir("./contest") if os.path.isdir(os.path.join("./contest", directory))]
 for contest_dir in contest_dirs:
-    dirs += [os.path.join(contest_dir, directory) for directory in os.listdir(contest_dir) if os.path.isdir(os.path.join(contest_dir, directory))]
+    dirs += [(os.path.join(contest_dir, directory),contest_dir) for directory in os.listdir(contest_dir) if os.path.isdir(os.path.join(contest_dir, directory))]
 
+problems = {}
 
-for directory in dirs:
+for directory, base_dir in dirs:
     if not os.path.isdir(directory):
         continue
     
@@ -85,11 +77,24 @@ for directory in dirs:
     template = template.replace("{problem.solutions.cpp.raw}", solution_raw)
     
     filename = os.path.join(directory, os.path.basename(directory) + ".md")
+    meta["relative url"] = filename
     with open(filename, "w") as f:
         f.write(template)
     
     print(Fore.GREEN + f"Successfully generated {filename}" + Style.RESET_ALL)
     flags["success"] += 1
+
+    if('contest' in base_dir):
+        if 'Contests' not in problems:
+            problems['Contests'] = {base_dir: [meta]}
+        elif base_dir not in problems['Contests']:
+            problems['Contests'][base_dir] = [meta]
+        else:
+            problems['Contests'][base_dir].append(meta)
+    elif(base_dir not in problems):
+        problems[base_dir] = [meta]
+    else:
+        problems[base_dir].append(meta)    
 
 print("Summary:\nPages generated with ",end="")
 print(
@@ -97,11 +102,14 @@ print(
     + Fore.RED + f"{flags['error']}" + Style.RESET_ALL + " Errors "
     + Fore.YELLOW + f"{flags['warning']}" + Style.RESET_ALL + " Warnings "
 )
-import sys
+
+update_readme(problems)
 
 # if some condition is not met, exit with a non-zero exit code
 if flags["error"] > 0:
     print("Commit failed: There are some errors")
     sys.exit(1)
+
+# print(problems)
 sys.exit(0)
 
