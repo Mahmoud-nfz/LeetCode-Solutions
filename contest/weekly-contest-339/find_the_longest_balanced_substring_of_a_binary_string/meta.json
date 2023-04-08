@@ -1,0 +1,16 @@
+{
+    "Problem Name": "Find the Longest Balanced Substring of a Binary String",
+    "Problem URL": "https://leetcode.com/contest/weekly-contest-339/problems/find-the-longest-balanced-substring-of-a-binary-string/",
+    "Tags": [
+        "arrays"
+    ],
+    "Difficulty": "Easy",
+    "Submission": "https://leetcode.com/contest/weekly-contest-339/submissions/detail/926283094/",
+    "Runtime": "12ms",
+    "Memory": "6.4MB",
+    "Average Complexity": "O(n^3)",
+    "Worst Complexity": "O(n^3)",
+    "Contest": true,
+    "Contest Name": "Weekly Contest 339",
+    "Contest URL": "https://leetcode.com/contest/weekly-contest-339/"
+}

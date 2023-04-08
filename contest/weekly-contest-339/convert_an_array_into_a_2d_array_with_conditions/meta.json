@@ -1,0 +1,15 @@
+{
+    "Problem Name": "Convert an Array Into a 2D Array With Conditions",
+    "Problem URL": "https://leetcode.com/contest/weekly-contest-339/problems/convert-an-array-into-a-2d-array-with-conditions/",
+    "Tags": [
+        "data structures"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/contest/weekly-contest-339/submissions/detail/926293361/",
+    "Runtime": "24ms",
+    "Memory": "30.7MB",
+    "Average Complexity": "O(nlogn)",
+    "Worst Complexity": "O(nlogn)",
+    "Contest": true,
+    "Contest Name": "Weekly Contest 339"
+}

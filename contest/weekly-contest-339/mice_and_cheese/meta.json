@@ -1,0 +1,15 @@
+{
+    "Problem Name": "Mice and Cheese",
+    "Problem URL": "https://leetcode.com/contest/weekly-contest-339/problems/mice-and-cheese/",
+    "Tags": [
+        "sorting"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/contest/weekly-contest-339/submissions/detail/926300020/",
+    "Runtime": "205ms",
+    "Memory": "112.1MB",
+    "Average Complexity": "O(nlogn)",
+    "Worst Complexity": "O(nlogn)",
+    "Contest": true,
+    "Contest Name": "Weekly Contest 339"
+}
