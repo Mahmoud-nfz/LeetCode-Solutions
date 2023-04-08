@@ -11,5 +11,6 @@ if [ $exit_code -ne 0 ]; then
 else
   echo "All checks passed. Adding changed files to the commit."
   git add -A
+  git status --porcelain
   echo "Committing changes."
 fi
