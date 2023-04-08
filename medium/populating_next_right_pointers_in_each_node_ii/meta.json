@@ -3,7 +3,7 @@
     "Problem URL": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/",
     "Tags": [
         "binary tree",
-        "dfs"
+        "bfs"
     ],
     "Difficulty": "Medium",
     "Submission": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/submissions/930246739/",
