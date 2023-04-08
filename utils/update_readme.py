@@ -20,7 +20,7 @@ def update_readme(problems):
                     content_to_write += f"| {contest.replace('./contest/','')} | | | |\n"
                     for problem in problems[category][contest]:
                         content_to_write += f"| [{problem['Problem Name']}]({problem['relative url']}) | [C++]({problem['relative url']}) | {problem['Difficulty']} | {problem['Tags']} |\n"
-                    content_to_write += "\n"
+                content_to_write += "\n"
         
         readme = re.sub(r"<!-- PROBLEMS START -->.*<!-- PROBLEMS END -->", f"<!-- PROBLEMS START -->\n{content_to_write}<!-- PROBLEMS END -->", readme, flags=re.DOTALL)
         # f.write(readme)
