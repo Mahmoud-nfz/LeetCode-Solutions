@@ -25,3 +25,8 @@ jobs:
           author_name: Github Action
           author_email: action@github.com
           message: "Generated problem pages"
+          signoff: true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_KEY }}
