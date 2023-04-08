@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Set the user.name and user.email configuration options
+git config user.name "GitHub Action"
+git config user.email "action@github.com"
+
 # Run build_problems_pages.py and capture the exit code
 python3 build_problems_pages.py
 exit_code=$?
