@@ -34,6 +34,7 @@ The repository is organized according to the problem's difficulty level and its 
 | [Path Sum II](./medium/path_sum_ii/path_sum_ii.md) | [C++](./medium/path_sum_ii/path_sum_ii.md) | Medium | dfs, binary tree |
 | [Reorder List](./medium/reorder_list/reorder_list.md) | [C++](./medium/reorder_list/reorder_list.md) | Medium | linked list |
 | [Find All Duplicates in an Array](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | [C++](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | Medium | data structures, frequency array |
+| [Populating Next Right Pointers in Each Node II](./medium/populating_next_right_pointers_in_each_node_ii/populating_next_right_pointers_in_each_node_ii.md) | [C++](./medium/populating_next_right_pointers_in_each_node_ii/populating_next_right_pointers_in_each_node_ii.md) | Medium | binary tree, dfs |
 | [K Closest Points to Origin](./medium/k_closest_points_to_origin/k_closest_points_to_origin.md) | [C++](./medium/k_closest_points_to_origin/k_closest_points_to_origin.md) | Medium | sorting |
 | [Letter Case Permutation](./medium/letter_case_permutation/letter_case_permutation.md) | [C++](./medium/letter_case_permutation/letter_case_permutation.md) | Medium | strings backtracking bruteforce |
 
