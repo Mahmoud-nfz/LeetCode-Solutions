@@ -14,8 +14,5 @@ if [ $exit_code -ne 0 ]; then
   exit 1
 else
   echo "All checks passed. Adding changed files to the commit."
-  git add -A
-  git status --porcelain
-  git commit -m "Generated problems pages."
   echo "Committing changes."
 fi
