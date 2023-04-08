@@ -21,13 +21,13 @@ jobs:
       - name: Commit Files
         uses: EndBug/add-and-commit@v7.1.1
         with:
-          github_token: ${{ secrets.GH_KEY }}
           add: .
           author_name: Github Action
           author_email: action@github.com
           message: "Generated problem pages"
           signoff: true
-      # - name: Push changes
-      #   uses: ad-m/github-push-action@master
-      #   with:
-      #     github_token: ${{ secrets.GH_KEY }}
+          token: ${{ secrets.GH_KEY }}
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_KEY }}
