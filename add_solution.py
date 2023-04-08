@@ -40,7 +40,7 @@ if(input("Is this a contest problem? y/[N]: \n") == "y"):
 # Define the path to the directory and file to be created
 filename = "meta.json"
 path = "./" + data["Difficulty"].lower() + "/" + data["Problem Name"].lower().replace(" ", "_") + "/"
-if(data["Contest"]):
+if("Contest" in data and data["Contest"] == True):
     path = contestPath + data["Problem Name"].lower().replace(" ", "_") + "/"
     # create meta.json in contest folder
     if not os.path.exists(contestPath):

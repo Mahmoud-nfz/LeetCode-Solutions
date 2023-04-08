@@ -65,8 +65,8 @@ If you find a problem whose solution is not included in the repository, feel fre
 - Run **`add_solution.py`** script to launch the prompt of adding a new problem and generating the files for it
 - Add your explained solution in the **`Solution.cpp`** file
 - Add the problem statement in the **`statement.html`** file
+- Once you've added some problems , run **`build_problems_pages.py`** script to generate the markdown files for the problems you added
 - Commit and push the changes
-- After pushing the changes, the markdown files for the problems you added will be generated automatically
 - Create a pull request
 
 
