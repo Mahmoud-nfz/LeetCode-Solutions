@@ -28,7 +28,7 @@ The repository is organized according to the problem's difficulty level and its 
 | ------- | -------- | ---------- | ---- |
 | [Jump Game](./medium/jump_game/jump_game.md) | [C++](./medium/jump_game/jump_game.md) | Medium | dp |
 | [Binary Tree Level Order Traversal](./medium/binary_tree_level_order_traversal/binary_tree_level_order_traversal.md) | [C++](./medium/binary_tree_level_order_traversal/binary_tree_level_order_traversal.md) | Medium | binary tree |
-| [Reorganize String](./medium/reorganize_string/reorganize_string.md) | [C++](./medium/reorganize_string/reorganize_string.md) | medium | strings, greedy, data structures |
+| [Reorganize String](./medium/reorganize_string/reorganize_string.md) | [C++](./medium/reorganize_string/reorganize_string.md) | Medium | strings, greedy, data structures |
 | [Combination Sum IV](./medium/combination-sum-iv.cpp/combination-sum-iv.cpp.md) | [C++](./medium/combination-sum-iv.cpp/combination-sum-iv.cpp.md) | Medium | DP |
 | [Binary Tree Level Order Traversal II](./medium/binary_tree_level_order_traversal_ii/binary_tree_level_order_traversal_ii.md) | [C++](./medium/binary_tree_level_order_traversal_ii/binary_tree_level_order_traversal_ii.md) | Medium | binary tree |
 | [Path Sum II](./medium/path_sum_ii/path_sum_ii.md) | [C++](./medium/path_sum_ii/path_sum_ii.md) | Medium | dfs, binary tree |
@@ -44,6 +44,11 @@ The repository is organized according to the problem's difficulty level and its 
 | [Find the Substring With Maximum Cost](./contest/biweekly-contest-101/find_the_substring_with_maximum_cost/find_the_substring_with_maximum_cost.md) | [C++](./contest/biweekly-contest-101/find_the_substring_with_maximum_cost/find_the_substring_with_maximum_cost.md) | Medium | arrays |
 | [Form Smallest Number From Two Digit Arrays](./contest/biweekly-contest-101/form_smallest_number_from_two_digit_arrays/form_smallest_number_from_two_digit_arrays.md) | [C++](./contest/biweekly-contest-101/form_smallest_number_from_two_digit_arrays/form_smallest_number_from_two_digit_arrays.md) | Easy | arrays |
 | [Make K-Subarray Sums Equal](./contest/biweekly-contest-101/make_k-subarray_sums_equal/make_k-subarray_sums_equal.md) | [C++](./contest/biweekly-contest-101/make_k-subarray_sums_equal/make_k-subarray_sums_equal.md) | Medium | arrays, dsu |
+
+| weekly-contest-339 | | | |
+| [Find the Longest Balanced Substring of a Binary String](./contest/weekly-contest-339/find_the_longest_balanced_substring_of_a_binary_string/find_the_longest_balanced_substring_of_a_binary_string.md) | [C++](./contest/weekly-contest-339/find_the_longest_balanced_substring_of_a_binary_string/find_the_longest_balanced_substring_of_a_binary_string.md) | Easy | arrays |
+| [Convert an Array Into a 2D Array With Conditions](./contest/weekly-contest-339/convert_an_array_into_a_2d_array_with_conditions/convert_an_array_into_a_2d_array_with_conditions.md) | [C++](./contest/weekly-contest-339/convert_an_array_into_a_2d_array_with_conditions/convert_an_array_into_a_2d_array_with_conditions.md) | Medium | data structures |
+| [Mice and Cheese](./contest/weekly-contest-339/mice_and_cheese/mice_and_cheese.md) | [C++](./contest/weekly-contest-339/mice_and_cheese/mice_and_cheese.md) | Medium | sorting |
 
 <!-- PROBLEMS END -->
 

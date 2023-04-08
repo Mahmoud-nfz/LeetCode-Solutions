@@ -18,16 +18,3 @@ jobs:
       - name: Run pre-commit hook
         run: |
           bash .hooks/pre-commit
-      - name: Commit Files
-        uses: EndBug/add-and-commit@v7.1.1
-        with:
-          add: .
-          author_name: Github Action
-          author_email: action@github.com
-          message: "Generated problem pages"
-          signoff: true
-          token: ${{ secrets.GH_KEY }}
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_KEY }}

@@ -1,6 +1,6 @@
 # Problem : Reorganize String
 
-### Difficulty : **medium**
+### Difficulty : **Medium**
 
 https://leetcode.com/problems/reorganize-string/
 
