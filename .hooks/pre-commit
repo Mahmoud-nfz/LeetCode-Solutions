@@ -10,6 +10,6 @@ if [ $exit_code -ne 0 ]; then
   exit 1
 else
   echo "All checks passed. Adding changed files to the commit."
-  git add .
+  git add -A
   echo "Committing changes."
 fi
