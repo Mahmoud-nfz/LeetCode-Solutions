@@ -32,9 +32,10 @@ The repository is organized according to the problem's difficulty level and its 
 | [Combination Sum IV](./medium/combination-sum-iv.cpp/combination-sum-iv.cpp.md) | [C++](./medium/combination-sum-iv.cpp/combination-sum-iv.cpp.md) | Medium | DP |
 | [Binary Tree Level Order Traversal II](./medium/binary_tree_level_order_traversal_ii/binary_tree_level_order_traversal_ii.md) | [C++](./medium/binary_tree_level_order_traversal_ii/binary_tree_level_order_traversal_ii.md) | Medium | binary tree |
 | [Path Sum II](./medium/path_sum_ii/path_sum_ii.md) | [C++](./medium/path_sum_ii/path_sum_ii.md) | Medium | dfs, binary tree |
+| [Populating Next Right Pointers in Each Node](./medium/populating_next_right_pointers_in_each_node_i/populating_next_right_pointers_in_each_node_i.md) | [C++](./medium/populating_next_right_pointers_in_each_node_i/populating_next_right_pointers_in_each_node_i.md) | Medium | binary tree, bfs |
 | [Reorder List](./medium/reorder_list/reorder_list.md) | [C++](./medium/reorder_list/reorder_list.md) | Medium | linked list |
 | [Find All Duplicates in an Array](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | [C++](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | Medium | data structures, frequency array |
-| [Populating Next Right Pointers in Each Node II](./medium/populating_next_right_pointers_in_each_node_ii/populating_next_right_pointers_in_each_node_ii.md) | [C++](./medium/populating_next_right_pointers_in_each_node_ii/populating_next_right_pointers_in_each_node_ii.md) | Medium | binary tree, dfs |
+| [Populating Next Right Pointers in Each Node II](./medium/populating_next_right_pointers_in_each_node_ii/populating_next_right_pointers_in_each_node_ii.md) | [C++](./medium/populating_next_right_pointers_in_each_node_ii/populating_next_right_pointers_in_each_node_ii.md) | Medium | binary tree, bfs |
 | [K Closest Points to Origin](./medium/k_closest_points_to_origin/k_closest_points_to_origin.md) | [C++](./medium/k_closest_points_to_origin/k_closest_points_to_origin.md) | Medium | sorting |
 | [Letter Case Permutation](./medium/letter_case_permutation/letter_case_permutation.md) | [C++](./medium/letter_case_permutation/letter_case_permutation.md) | Medium | strings backtracking bruteforce |
 

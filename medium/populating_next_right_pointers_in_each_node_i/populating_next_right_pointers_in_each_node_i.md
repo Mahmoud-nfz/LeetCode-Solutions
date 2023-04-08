@@ -1,8 +1,8 @@
-# Problem : Populating Next Right Pointers in Each Node II
+# Problem : Populating Next Right Pointers in Each Node
 
 ### Difficulty : **Medium**
 
-https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 
 ---
 
@@ -16,7 +16,7 @@ https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
 
 # Statement
 
-<p>Given a binary tree</p>
+<p>You are given a <strong>perfect binary tree</strong> where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:</p>
 
 <pre>struct Node {
   int val;
@@ -32,10 +32,10 @@ https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2019/02/15/117_sample.png" style="width: 500px; height: 171px;">
-<pre><strong>Input:</strong> root = [1,2,3,4,5,null,7]
-<strong>Output:</strong> [1,#,2,3,#,4,5,7,#]
-<strong>Explanation: </strong>Given the above binary tree (Figure A), your function should populate each next pointer to point to its next right node, just like in Figure B. The serialized output is in level order as connected by the next pointers, with '#' signifying the end of each level.
+<img alt="" src="https://assets.leetcode.com/uploads/2019/02/14/116_sample.png" style="width: 500px; height: 171px;">
+<pre><strong>Input:</strong> root = [1,2,3,4,5,6,7]
+<strong>Output:</strong> [1,#,2,3,#,4,5,6,7,#]
+<strong>Explanation: </strong>Given the above perfect binary tree (Figure A), your function should populate each next pointer to point to its next right node, just like in Figure B. The serialized output is in level order as connected by the next pointers, with '#' signifying the end of each level.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
@@ -48,8 +48,8 @@ https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the tree is in the range <code>[0, 6000]</code>.</li>
-	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
+	<li>The number of nodes in the tree is in the range <code>[0, 2<sup>12</sup> - 1]</code>.</li>
+	<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>
 </ul>
 
 <p>&nbsp;</p>

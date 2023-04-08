@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Populating Next Right Pointers in Each Node",
+    "Problem URL": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+    "Tags": [
+        "binary tree",
+        "bfs"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/930254285/",
+    "Runtime": "18ms",
+    "Memory": "18.4MB",
+    "Average Complexity": "O(nodes)",
+    "Worst Complexity": "O(nodes)"
+}
