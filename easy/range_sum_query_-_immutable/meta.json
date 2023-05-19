@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Range Sum Query - Immutable",
+    "Problem URL": "https://leetcode.com/problems/range-sum-query-immutable/",
+    "Tags": [
+        "dp"
+    ],
+    "Difficulty": "Easy",
+    "Submission": "https://leetcode.com/problems/range-sum-query-immutable/submissions/953522189/",
+    "Runtime": "23ms",
+    "Memory": "16.9MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}

@@ -1,0 +1,13 @@
+{
+    "Problem Name": "House Robber",
+    "Problem URL": "https://leetcode.com/problems/house-robber/",
+    "Tags": [
+        "dp"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/house-robber/submissions/953542251/",
+    "Runtime": "0ms",
+    "Memory": "7.6MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}

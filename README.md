@@ -21,7 +21,9 @@ The repository is organized according to the problem's difficulty level and its 
 | Problem | Solution | Difficulty | Tags |
 | ------- | -------- | ---------- | ---- |
 | [Contains Duplicate](./easy/contains_duplicates/contains_duplicates.md) | [C++](./easy/contains_duplicates/contains_duplicates.md) | Easy | Hash Map, Data Structures |
+| [Range Sum Query - Immutable](./easy/range_sum_query_-_immutable/range_sum_query_-_immutable.md) | [C++](./easy/range_sum_query_-_immutable/range_sum_query_-_immutable.md) | Easy | dp |
 | [Reverse Linked List](./easy/reverse_linked_list/reverse_linked_list.md) | [C++](./easy/reverse_linked_list/reverse_linked_list.md) | Easy | linked list |
+| [Climbing Stairs](./easy/climbing_stairs/climbing_stairs.md) | [C++](./easy/climbing_stairs/climbing_stairs.md) | Easy | dp |
 
 ## MEDIUM
 | Problem | Solution | Difficulty | Tags |
@@ -32,6 +34,7 @@ The repository is organized according to the problem's difficulty level and its 
 | [Combination Sum IV](./medium/combination-sum-iv.cpp/combination-sum-iv.cpp.md) | [C++](./medium/combination-sum-iv.cpp/combination-sum-iv.cpp.md) | Medium | DP |
 | [Binary Tree Level Order Traversal II](./medium/binary_tree_level_order_traversal_ii/binary_tree_level_order_traversal_ii.md) | [C++](./medium/binary_tree_level_order_traversal_ii/binary_tree_level_order_traversal_ii.md) | Medium | binary tree |
 | [Path Sum II](./medium/path_sum_ii/path_sum_ii.md) | [C++](./medium/path_sum_ii/path_sum_ii.md) | Medium | dfs, binary tree |
+| [House Robber](./medium/house_robber/house_robber.md) | [C++](./medium/house_robber/house_robber.md) | Medium | dp |
 | [Populating Next Right Pointers in Each Node](./medium/populating_next_right_pointers_in_each_node_i/populating_next_right_pointers_in_each_node_i.md) | [C++](./medium/populating_next_right_pointers_in_each_node_i/populating_next_right_pointers_in_each_node_i.md) | Medium | binary tree, bfs |
 | [Reorder List](./medium/reorder_list/reorder_list.md) | [C++](./medium/reorder_list/reorder_list.md) | Medium | linked list |
 | [Find All Duplicates in an Array](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | [C++](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | Medium | data structures, frequency array |
