@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Partition Equal Subset Sum",
+    "Problem URL": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "Tags": [
+        "dp"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/partition-equal-subset-sum/submissions/957268682/",
+    "Runtime": "955ms",
+    "Memory": "346MB",
+    "Average Complexity": "O(N*N*max(A[i]))",
+    "Worst Complexity": "O(N*N*max(A[i]))"
+}

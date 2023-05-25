@@ -37,6 +37,7 @@ The repository is organized according to the problem's difficulty level and its 
 | [House Robber](./medium/house_robber/house_robber.md) | [C++](./medium/house_robber/house_robber.md) | Medium | dp |
 | [Populating Next Right Pointers in Each Node](./medium/populating_next_right_pointers_in_each_node_i/populating_next_right_pointers_in_each_node_i.md) | [C++](./medium/populating_next_right_pointers_in_each_node_i/populating_next_right_pointers_in_each_node_i.md) | Medium | binary tree, bfs |
 | [Reorder List](./medium/reorder_list/reorder_list.md) | [C++](./medium/reorder_list/reorder_list.md) | Medium | linked list |
+| [Partition Equal Subset Sum](./medium/partition_equal_subset_sum/partition_equal_subset_sum.md) | [C++](./medium/partition_equal_subset_sum/partition_equal_subset_sum.md) | Medium | dp |
 | [Find All Duplicates in an Array](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | [C++](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | Medium | data structures, frequency array |
 | [Populating Next Right Pointers in Each Node II](./medium/populating_next_right_pointers_in_each_node_ii/populating_next_right_pointers_in_each_node_ii.md) | [C++](./medium/populating_next_right_pointers_in_each_node_ii/populating_next_right_pointers_in_each_node_ii.md) | Medium | binary tree, bfs |
 | [K Closest Points to Origin](./medium/k_closest_points_to_origin/k_closest_points_to_origin.md) | [C++](./medium/k_closest_points_to_origin/k_closest_points_to_origin.md) | Medium | sorting |
