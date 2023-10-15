@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Set Matrix Zeroes",
+    "Problem URL": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "Tags": [
+        "matrices",
+        "arrays"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/submissions/detail/1075373897/",
+    "Runtime": "11ms",
+    "Memory": "13.9MB",
+    "Average Complexity": "O(n*m)",
+    "Worst Complexity": "O(n*m)"
+}
