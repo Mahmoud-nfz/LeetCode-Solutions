@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Maximum Subarray",
+    "Problem URL": "https://leetcode.com/problems/maximum-subarray/",
+    "Tags": [
+        "arrays",
+        "dp"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/maximum-subarray/submissions/1075788143/",
+    "Runtime": "80ms",
+    "Memory": "68MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}
