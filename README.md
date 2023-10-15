@@ -38,6 +38,7 @@ The repository is organized according to the problem's difficulty level and its 
 | [Maximum Subarray](./medium\maximum_subarray\maximum_subarray.md) | [C++](./medium\maximum_subarray\maximum_subarray.md) | Medium | arrays, dp |
 | [Partition Equal Subset Sum](./medium\partition_equal_subset_sum\partition_equal_subset_sum.md) | [C++](./medium\partition_equal_subset_sum\partition_equal_subset_sum.md) | Medium | dp |
 | [Path Sum II](./medium\path_sum_ii\path_sum_ii.md) | [C++](./medium\path_sum_ii\path_sum_ii.md) | Medium | dfs, binary tree |
+| [Path Sum III](./medium\path_sum_iii\path_sum_iii.md) | [C++](./medium\path_sum_iii\path_sum_iii.md) | Medium | dp, trees, dfs |
 | [Populating Next Right Pointers in Each Node](./medium\populating_next_right_pointers_in_each_node_i\populating_next_right_pointers_in_each_node_i.md) | [C++](./medium\populating_next_right_pointers_in_each_node_i\populating_next_right_pointers_in_each_node_i.md) | Medium | binary tree, bfs |
 | [Populating Next Right Pointers in Each Node II](./medium\populating_next_right_pointers_in_each_node_ii\populating_next_right_pointers_in_each_node_ii.md) | [C++](./medium\populating_next_right_pointers_in_each_node_ii\populating_next_right_pointers_in_each_node_ii.md) | Medium | binary tree, bfs |
 | [Reorder List](./medium\reorder_list\reorder_list.md) | [C++](./medium\reorder_list\reorder_list.md) | Medium | linked list |

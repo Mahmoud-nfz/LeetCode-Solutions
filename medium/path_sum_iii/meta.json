@@ -1,0 +1,17 @@
+{
+    "Problem Name": "Path Sum III",
+    "Problem URL": "https://leetcode.com/problems/path-sum-iii/",
+    "Tags": [
+        "dp",
+        "trees",
+        "dfs"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/path-sum-iii/submissions/1076218250/",
+    "Runtime": "18ms",
+    "Memory": "16.3MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)",
+    "Additional Optimized Solution": true,
+    "Optimized Submission": "https://leetcode.com/problems/path-sum-iii/submissions/1076232685/"
+}
