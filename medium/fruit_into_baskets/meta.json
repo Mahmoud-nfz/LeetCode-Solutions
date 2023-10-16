@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Fruit Into Baskets",
+    "Problem URL": "https://leetcode.com/problems/fruit-into-baskets/",
+    "Tags": [
+        "arrays"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/fruit-into-baskets/submissions/1077060827/",
+    "Runtime": "75ms",
+    "Memory": "66MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}
