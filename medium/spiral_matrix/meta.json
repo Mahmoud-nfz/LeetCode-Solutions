@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Spiral Matrix",
+    "Problem URL": "https://leetcode.com/problems/spiral-matrix/",
+    "Tags": [
+        "matrices",
+        "traversals"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/spiral-matrix/submissions/1077046136/",
+    "Runtime": "0ms",
+    "Memory": "7.34MB",
+    "Average Complexity": "O(n*m)",
+    "Worst Complexity": "O(n*m)"
+}
