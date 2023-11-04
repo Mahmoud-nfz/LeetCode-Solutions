@@ -1,0 +1,15 @@
+{
+    "Problem Name": "First Missing Positive",
+    "Problem URL": "https://leetcode.com/problems/first-missing-positive/",
+    "Tags": [
+        "arrays"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/first-missing-positive/submissions/1091190124",
+    "Runtime": "47ms",
+    "Memory": "43.11MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)",
+    "Additional Optimized Solution": true,
+    "Optimized Submission": "https://leetcode.com/problems/first-missing-positive/submissions/1091197142"
+}

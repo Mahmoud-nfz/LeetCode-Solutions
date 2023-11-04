@@ -50,6 +50,11 @@ The repository is organized according to the problem's difficulty level and its 
 | [Subsets](./medium/subsets/subsets.md) | [C++](./medium/subsets/subsets.md) | Medium | brute force, subsets |
 | [Subsets II](./medium/subsets_ii/subsets_ii.md) | [C++](./medium/subsets_ii/subsets_ii.md) | Medium | brute force, subsets |
 
+## HARD
+| Problem | Solution | Difficulty | Tags |
+| ------- | -------- | ---------- | ---- |
+| [First Missing Positive](./hard/first_missing_positive/first_missing_positive.md) | [C++](./hard/first_missing_positive/first_missing_positive.md) | Hard | arrays |
+
 ## CONTESTS
 | Problem | Solution | Difficulty | Tags |
 | ------- | -------- | ---------- | ---- |
