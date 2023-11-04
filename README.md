@@ -16,7 +16,8 @@ The repository is organized according to the problem's difficulty level and its 
 
 ---
 # Problems
-<!-- PROBLEMS START -->## EASY
+<!-- PROBLEMS START -->
+## EASY
 | Problem | Solution | Difficulty | Tags |
 | ------- | -------- | ---------- | ---- |
 | [Climbing Stairs](./easy/climbing_stairs/climbing_stairs.md) | [C++](./easy/climbing_stairs/climbing_stairs.md) | Easy | dp |
@@ -50,11 +51,11 @@ The repository is organized according to the problem's difficulty level and its 
 ## CONTESTS
 | Problem | Solution | Difficulty | Tags |
 | ------- | -------- | ---------- | ---- |
-| ./contest\biweekly-contest-101 | | | |
+| biweekly-contest-101 | | | |
 | [Find the Substring With Maximum Cost](./contest/biweekly-contest-101/find_the_substring_with_maximum_cost/find_the_substring_with_maximum_cost.md) | [C++](./contest/biweekly-contest-101/find_the_substring_with_maximum_cost/find_the_substring_with_maximum_cost.md) | Medium | arrays |
 | [Form Smallest Number From Two Digit Arrays](./contest/biweekly-contest-101/form_smallest_number_from_two_digit_arrays/form_smallest_number_from_two_digit_arrays.md) | [C++](./contest/biweekly-contest-101/form_smallest_number_from_two_digit_arrays/form_smallest_number_from_two_digit_arrays.md) | Easy | arrays |
 | [Make K-Subarray Sums Equal](./contest/biweekly-contest-101/make_k-subarray_sums_equal/make_k-subarray_sums_equal.md) | [C++](./contest/biweekly-contest-101/make_k-subarray_sums_equal/make_k-subarray_sums_equal.md) | Medium | arrays, dsu |
-| ./contest\weekly-contest-339 | | | |
+| weekly-contest-339 | | | |
 | [Convert an Array Into a 2D Array With Conditions](./contest/weekly-contest-339/convert_an_array_into_a_2d_array_with_conditions/convert_an_array_into_a_2d_array_with_conditions.md) | [C++](./contest/weekly-contest-339/convert_an_array_into_a_2d_array_with_conditions/convert_an_array_into_a_2d_array_with_conditions.md) | Medium | data structures |
 | [Find the Longest Balanced Substring of a Binary String](./contest/weekly-contest-339/find_the_longest_balanced_substring_of_a_binary_string/find_the_longest_balanced_substring_of_a_binary_string.md) | [C++](./contest/weekly-contest-339/find_the_longest_balanced_substring_of_a_binary_string/find_the_longest_balanced_substring_of_a_binary_string.md) | Easy | arrays |
 | [Mice and Cheese](./contest/weekly-contest-339/mice_and_cheese/mice_and_cheese.md) | [C++](./contest/weekly-contest-339/mice_and_cheese/mice_and_cheese.md) | Medium | sorting |

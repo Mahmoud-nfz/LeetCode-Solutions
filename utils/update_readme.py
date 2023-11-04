@@ -7,9 +7,10 @@ def update_readme(problems):
     with open(readme_path,"+r") as f:
         readme = f.read()
         # print(readme)
-        content_to_write = ""
+        content_to_write = "\n"
         for category in problems:
             content_to_write += f"## {category.replace('./','').upper()}\n"
+            print(category)
             content_to_write += "| Problem | Solution | Difficulty | Tags |\n"
             content_to_write += "| ------- | -------- | ---------- | ---- |\n"
             if('Contest' not in category):
@@ -18,7 +19,8 @@ def update_readme(problems):
                 content_to_write += "\n"
             else:
                 for contest in problems[category]:
-                    content_to_write += f"| {contest.replace('./contest/','')} | | | |\n"
+                    backslash = "\\"
+                    content_to_write += f"| {contest.replace('./contest/','').replace(f'./contest{backslash}','')} | | | |\n"
                     for problem in problems[category][contest]:
                         content_to_write += f"| [{problem['Problem Name']}]({problem['relative url']}) | [C++]({problem['relative url']}) | {problem['Difficulty']} | {problem['Tags']} |\n"
                 content_to_write += "\n"
