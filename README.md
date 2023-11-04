@@ -47,6 +47,8 @@ The repository is organized according to the problem's difficulty level and its 
 | [Reorganize String](./medium/reorganize_string/reorganize_string.md) | [C++](./medium/reorganize_string/reorganize_string.md) | Medium | strings, greedy, data structures |
 | [Set Matrix Zeroes](./medium/set_matrix_zeroes/set_matrix_zeroes.md) | [C++](./medium/set_matrix_zeroes/set_matrix_zeroes.md) | Medium | matrices, arrays |
 | [Spiral Matrix](./medium/spiral_matrix/spiral_matrix.md) | [C++](./medium/spiral_matrix/spiral_matrix.md) | Medium | matrices, traversals |
+| [Subsets](./medium/subsets/subsets.md) | [C++](./medium/subsets/subsets.md) | Medium | brute force, subsets |
+| [Subsets II](./medium/subsets_ii/subsets_ii.md) | [C++](./medium/subsets_ii/subsets_ii.md) | Medium | brute force, subsets |
 
 ## CONTESTS
 | Problem | Solution | Difficulty | Tags |

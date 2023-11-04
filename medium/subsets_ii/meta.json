@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Subsets II",
+    "Problem URL": "https://leetcode.com/problems/subsets-ii/",
+    "Tags": [
+        "brute force",
+        "subsets"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/subsets-ii/submissions/1091183664",
+    "Runtime": "4ms",
+    "Memory": "8.62MB",
+    "Average Complexity": "O(2^n)",
+    "Worst Complexity": "O(2^n)"
+}
