@@ -77,7 +77,7 @@ for directory, base_dir in dirs:
     template = template.replace("{problem.solutions.cpp.raw}", solution_raw)
     
     filename = os.path.join(directory, os.path.basename(directory) + ".md")
-    meta["relative url"] = filename
+    meta["relative url"] = filename.replace("\\", "/")
     with open(filename, "w") as f:
         f.write(template)
     
