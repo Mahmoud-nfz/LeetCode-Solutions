@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Minimum Window Substring",
+    "Problem URL": "https://leetcode.com/problems/minimum-window-substring/",
+    "Tags": [
+        "Sliding window",
+        "strings"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/minimum-window-substring/submissions/1092008621",
+    "Runtime": "7ms",
+    "Memory": "8.56MB",
+    "Average Complexity": "O(n+m)",
+    "Worst Complexity": "O(n+m)"
+}
