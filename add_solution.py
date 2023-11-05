@@ -26,7 +26,7 @@ optimized = False
 if(input("Create file for additional optimized solution? y/[N]: \n") == "y"):
     optimized = True
     data["Additional Optimized Solution"] = True
-    data["Optimized Submission"] = input("Enter the number optimized solution submission URL :\n")
+    data["Optimized Submission"] = input("Enter the optimized solution submission URL :\n")
 
 contestPath = ""
 if(input("Is this a contest problem? y/[N]: \n") == "y"):

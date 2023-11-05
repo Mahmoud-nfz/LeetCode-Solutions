@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Merge k Sorted Lists",
+    "Problem URL": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "Tags": [
+        "Linked List"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/merge-k-sorted-lists/submissions/1091979356",
+    "Runtime": "23ms",
+    "Memory": "14.93MB",
+    "Average Complexity": "O(nodes)",
+    "Worst Complexity": "O(nodes)"
+}

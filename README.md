@@ -54,6 +54,9 @@ The repository is organized according to the problem's difficulty level and its 
 | Problem | Solution | Difficulty | Tags |
 | ------- | -------- | ---------- | ---- |
 | [First Missing Positive](./hard/first_missing_positive/first_missing_positive.md) | [C++](./hard/first_missing_positive/first_missing_positive.md) | Hard | arrays |
+| [Merge k Sorted Lists](./hard/merge_k_sorted_lists/merge_k_sorted_lists.md) | [C++](./hard/merge_k_sorted_lists/merge_k_sorted_lists.md) | Hard | Linked List |
+| [Reverse Nodes in k-Group](./hard/reverse_nodes_in_k-group/reverse_nodes_in_k-group.md) | [C++](./hard/reverse_nodes_in_k-group/reverse_nodes_in_k-group.md) | Hard | Linked List |
+| [Sudoku Solver](./hard/sudoku_solver/sudoku_solver.md) | [C++](./hard/sudoku_solver/sudoku_solver.md) | Hard | Backtracking |
 
 ## CONTESTS
 | Problem | Solution | Difficulty | Tags |

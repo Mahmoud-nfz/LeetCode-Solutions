@@ -1,0 +1,15 @@
+{
+    "Problem Name": "Reverse Nodes in k-Group",
+    "Problem URL": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+    "Tags": [
+        "Linked List"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1091956505",
+    "Runtime": "11ms",
+    "Memory": "12.25MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)",
+    "Additional Optimized Solution": true,
+    "Optimized Submission": "https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1091966893"
+}
