@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Sliding Window Maximum",
+    "Problem URL": "https://leetcode.com/problems/sliding-window-maximum/",
+    "Tags": [
+        "Sliding window",
+        "arrays"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/sliding-window-maximum/submissions/1091985563",
+    "Runtime": "562ms",
+    "Memory": "212.49MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}
