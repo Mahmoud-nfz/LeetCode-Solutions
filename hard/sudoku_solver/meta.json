@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Sudoku Solver",
+    "Problem URL": "https://leetcode.com/problems/sudoku-solver/",
+    "Tags": [
+        "Backtracking"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/sudoku-solver/submissions/1091326119",
+    "Runtime": "13ms",
+    "Memory": "6.96MB",
+    "Average Complexity": "O(9^81) with a lot of pruning",
+    "Worst Complexity": "??"
+}
