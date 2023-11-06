@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Word Search",
+    "Problem URL": "https://leetcode.com/problems/word-search/",
+    "Tags": [
+        "matrices",
+        "backtracking"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/word-search/submissions/1093016095",
+    "Runtime": "940ms",
+    "Memory": "8.46MB",
+    "Average Complexity": "O(?)",
+    "Worst Complexity": "O(?)"
+}

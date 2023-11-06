@@ -50,6 +50,7 @@ The repository is organized according to the problem's difficulty level and its 
 | [Spiral Matrix](./medium/spiral_matrix/spiral_matrix.md) | [C++](./medium/spiral_matrix/spiral_matrix.md) | Medium | matrices, traversals |
 | [Subsets](./medium/subsets/subsets.md) | [C++](./medium/subsets/subsets.md) | Medium | brute force, subsets |
 | [Subsets II](./medium/subsets_ii/subsets_ii.md) | [C++](./medium/subsets_ii/subsets_ii.md) | Medium | brute force, subsets |
+| [Word Search](./medium/word_search/word_search.md) | [C++](./medium/word_search/word_search.md) | Medium | matrices, backtracking |
 
 ## HARD
 | Problem | Solution | Difficulty | Tags |
