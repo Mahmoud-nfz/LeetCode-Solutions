@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Rotate Image",
+    "Problem URL": "https://leetcode.com/problems/rotate-image/",
+    "Tags": [
+        "matrices"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/rotate-image/submissions/1092993739",
+    "Runtime": "0ms",
+    "Memory": "7.34MB",
+    "Average Complexity": "O(n*n)",
+    "Worst Complexity": "O(n*n)"
+}
