@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Trapping Rain Water",
+    "Problem URL": "https://leetcode.com/problems/trapping-rain-water/",
+    "Tags": [
+        "arrays"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/trapping-rain-water/submissions/1093810665",
+    "Runtime": "11ms",
+    "Memory": "20.48MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}
