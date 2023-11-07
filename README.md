@@ -56,6 +56,7 @@ The repository is organized according to the problem's difficulty level and its 
 | Problem | Solution | Difficulty | Tags |
 | ------- | -------- | ---------- | ---- |
 | [First Missing Positive](./hard/first_missing_positive/first_missing_positive.md) | [C++](./hard/first_missing_positive/first_missing_positive.md) | Hard | arrays |
+| [Median of Two Sorted Arrays](./hard/median_of_two_sorted_arrays/median_of_two_sorted_arrays.md) | [C++](./hard/median_of_two_sorted_arrays/median_of_two_sorted_arrays.md) | Hard | arrays, binary search |
 | [Merge k Sorted Lists](./hard/merge_k_sorted_lists/merge_k_sorted_lists.md) | [C++](./hard/merge_k_sorted_lists/merge_k_sorted_lists.md) | Hard | Linked List |
 | [Minimum Window Substring](./hard/minimum_window_substring/minimum_window_substring.md) | [C++](./hard/minimum_window_substring/minimum_window_substring.md) | Hard | Sliding window, strings |
 | [Reverse Nodes in k-Group](./hard/reverse_nodes_in_k-group/reverse_nodes_in_k-group.md) | [C++](./hard/reverse_nodes_in_k-group/reverse_nodes_in_k-group.md) | Hard | Linked List |

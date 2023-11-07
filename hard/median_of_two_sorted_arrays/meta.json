@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Median of Two Sorted Arrays",
+    "Problem URL": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "Tags": [
+        "arrays",
+        "binary search"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1093948881",
+    "Runtime": "16ms",
+    "Memory": "89MB",
+    "Average Complexity": "O(log(min(n,m)))",
+    "Worst Complexity": "O(log(min(n,m)))"
+}
