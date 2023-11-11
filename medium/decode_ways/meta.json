@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Decode Ways",
+    "Problem URL": "https://leetcode.com/problems/decode-ways/",
+    "Tags": [
+        "dp"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/decode-ways/submissions/1096765954",
+    "Runtime": "0ms",
+    "Memory": "6.56MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}

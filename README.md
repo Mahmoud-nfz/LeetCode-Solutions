@@ -31,6 +31,7 @@ The repository is organized according to the problem's difficulty level and its 
 | [Binary Tree Level Order Traversal](./medium/binary_tree_level_order_traversal/binary_tree_level_order_traversal.md) | [C++](./medium/binary_tree_level_order_traversal/binary_tree_level_order_traversal.md) | Medium | binary tree |
 | [Binary Tree Level Order Traversal II](./medium/binary_tree_level_order_traversal_ii/binary_tree_level_order_traversal_ii.md) | [C++](./medium/binary_tree_level_order_traversal_ii/binary_tree_level_order_traversal_ii.md) | Medium | binary tree |
 | [Combination Sum IV](./medium/combination-sum-iv.cpp/combination-sum-iv.cpp.md) | [C++](./medium/combination-sum-iv.cpp/combination-sum-iv.cpp.md) | Medium | DP |
+| [Decode Ways](./medium/decode_ways/decode_ways.md) | [C++](./medium/decode_ways/decode_ways.md) | Medium | dp |
 | [Find All Duplicates in an Array](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | [C++](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | Medium | data structures, frequency array |
 | [Fruit Into Baskets](./medium/fruit_into_baskets/fruit_into_baskets.md) | [C++](./medium/fruit_into_baskets/fruit_into_baskets.md) | Medium | arrays |
 | [House Robber](./medium/house_robber/house_robber.md) | [C++](./medium/house_robber/house_robber.md) | Medium | dp |
