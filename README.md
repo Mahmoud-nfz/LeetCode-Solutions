@@ -38,6 +38,7 @@ The repository is organized according to the problem's difficulty level and its 
 | [Jump Game](./medium/jump_game/jump_game.md) | [C++](./medium/jump_game/jump_game.md) | Medium | dp |
 | [K Closest Points to Origin](./medium/k_closest_points_to_origin/k_closest_points_to_origin.md) | [C++](./medium/k_closest_points_to_origin/k_closest_points_to_origin.md) | Medium | sorting |
 | [Letter Case Permutation](./medium/letter_case_permutation/letter_case_permutation.md) | [C++](./medium/letter_case_permutation/letter_case_permutation.md) | Medium | strings backtracking bruteforce |
+| [Longest Increasing Subsequence](./medium/longest_increasing_subsequence/longest_increasing_subsequence.md) | [C++](./medium/longest_increasing_subsequence/longest_increasing_subsequence.md) | Medium | data structures |
 | [Maximum Subarray](./medium/maximum_subarray/maximum_subarray.md) | [C++](./medium/maximum_subarray/maximum_subarray.md) | Medium | arrays, dp |
 | [Partition Equal Subset Sum](./medium/partition_equal_subset_sum/partition_equal_subset_sum.md) | [C++](./medium/partition_equal_subset_sum/partition_equal_subset_sum.md) | Medium | dp |
 | [Path Sum II](./medium/path_sum_ii/path_sum_ii.md) | [C++](./medium/path_sum_ii/path_sum_ii.md) | Medium | dfs, binary tree |

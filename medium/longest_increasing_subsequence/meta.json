@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Longest Increasing Subsequence",
+    "Problem URL": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "Tags": [
+        "data structures"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/longest-increasing-subsequence/submissions/1097760259",
+    "Runtime": "8ms",
+    "Memory": "15.89",
+    "Average Complexity": "O(n*log(MAX))",
+    "Worst Complexity": "O(n*log(MAX))"
+}
