@@ -1,0 +1,15 @@
+{
+    "Problem Name": "Course Schedule III",
+    "Problem URL": "https://leetcode.com/problems/course-schedule-iii/",
+    "Tags": [
+        "two pointers",
+        "scheduling",
+        "arrays"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/course-schedule-iii/submissions/1155635646",
+    "Runtime": "187ms",
+    "Memory": "74MB",
+    "Average Complexity": "O(10^4)",
+    "Worst Complexity": "O(10^4)"
+}
