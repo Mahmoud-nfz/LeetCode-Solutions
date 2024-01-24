@@ -63,6 +63,7 @@ The repository is organized according to the problem's difficulty level and its 
 | [Minimum Window Substring](./hard/minimum_window_substring/minimum_window_substring.md) | [C++](./hard/minimum_window_substring/minimum_window_substring.md) | Hard | Sliding window, strings |
 | [Reverse Nodes in k-Group](./hard/reverse_nodes_in_k-group/reverse_nodes_in_k-group.md) | [C++](./hard/reverse_nodes_in_k-group/reverse_nodes_in_k-group.md) | Hard | Linked List |
 | [Sliding Window Maximum](./hard/sliding_window_maximum/sliding_window_maximum.md) | [C++](./hard/sliding_window_maximum/sliding_window_maximum.md) | Hard | Sliding window, arrays |
+| [Smallest Range Covering Elements from K Lists](./hard/smallest_range_covering_elements_from_k_lists/smallest_range_covering_elements_from_k_lists.md) | [C++](./hard/smallest_range_covering_elements_from_k_lists/smallest_range_covering_elements_from_k_lists.md) | Hard | arrays, two pointers |
 | [Sudoku Solver](./hard/sudoku_solver/sudoku_solver.md) | [C++](./hard/sudoku_solver/sudoku_solver.md) | Hard | Backtracking |
 | [Trapping Rain Water](./hard/trapping_rain_water/trapping_rain_water.md) | [C++](./hard/trapping_rain_water/trapping_rain_water.md) | Hard | arrays |
 

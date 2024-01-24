@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Smallest Range Covering Elements from K Lists",
+    "Problem URL": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/",
+    "Tags": [
+        "arrays",
+        "two pointers"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/submissions/1155588334",
+    "Runtime": "50ms",
+    "Memory": "25.61MB",
+    "Average Complexity": "O(number of elements in all lists)",
+    "Worst Complexity": "O(number of elements in all lists)"
+}
