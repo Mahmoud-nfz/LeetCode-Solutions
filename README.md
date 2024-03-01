@@ -58,6 +58,7 @@ The repository is organized according to the problem's difficulty level and its 
 | Problem | Solution | Difficulty | Tags |
 | ------- | -------- | ---------- | ---- |
 | [Course Schedule III](./hard/course_schedule_iii/course_schedule_iii.md) | [C++](./hard/course_schedule_iii/course_schedule_iii.md) | Hard | two pointers, scheduling, arrays |
+| [Find Median from Data Stream](./hard/find_median_from_data_stream/find_median_from_data_stream.md) | [C++](./hard/find_median_from_data_stream/find_median_from_data_stream.md) | Hard | policy based data structures, online algorithms |
 | [First Missing Positive](./hard/first_missing_positive/first_missing_positive.md) | [C++](./hard/first_missing_positive/first_missing_positive.md) | Hard | arrays |
 | [Median of Two Sorted Arrays](./hard/median_of_two_sorted_arrays/median_of_two_sorted_arrays.md) | [C++](./hard/median_of_two_sorted_arrays/median_of_two_sorted_arrays.md) | Hard | arrays, binary search |
 | [Merge k Sorted Lists](./hard/merge_k_sorted_lists/merge_k_sorted_lists.md) | [C++](./hard/merge_k_sorted_lists/merge_k_sorted_lists.md) | Hard | Linked List |

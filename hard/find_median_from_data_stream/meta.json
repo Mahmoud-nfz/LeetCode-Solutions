@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Find Median from Data Stream",
+    "Problem URL": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "Tags": [
+        "policy based data structures",
+        "online algorithms"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/find-median-from-data-stream/submissions/1190508692",
+    "Runtime": "392ms",
+    "Memory": "145MB",
+    "Average Complexity": "O(nlogn)",
+    "Worst Complexity": "O(nlogn)"
+}
