@@ -35,6 +35,7 @@ The repository is organized according to the problem's difficulty level and its 
 | [Find All Duplicates in an Array](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | [C++](./medium/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.md) | Medium | data structures, frequency array |
 | [Fruit Into Baskets](./medium/fruit_into_baskets/fruit_into_baskets.md) | [C++](./medium/fruit_into_baskets/fruit_into_baskets.md) | Medium | arrays |
 | [House Robber](./medium/house_robber/house_robber.md) | [C++](./medium/house_robber/house_robber.md) | Medium | dp |
+| [House Robber II](./medium/house_robber_ii/house_robber_ii.md) | [C++](./medium/house_robber_ii/house_robber_ii.md) | Medium | dp |
 | [Jump Game](./medium/jump_game/jump_game.md) | [C++](./medium/jump_game/jump_game.md) | Medium | dp |
 | [K Closest Points to Origin](./medium/k_closest_points_to_origin/k_closest_points_to_origin.md) | [C++](./medium/k_closest_points_to_origin/k_closest_points_to_origin.md) | Medium | sorting |
 | [Letter Case Permutation](./medium/letter_case_permutation/letter_case_permutation.md) | [C++](./medium/letter_case_permutation/letter_case_permutation.md) | Medium | strings backtracking bruteforce |
