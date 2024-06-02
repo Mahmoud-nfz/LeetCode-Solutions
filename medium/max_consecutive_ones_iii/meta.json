@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Max Consecutive Ones III",
+    "Problem URL": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+    "Tags": [
+        "arrays",
+        "dp"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/max-consecutive-ones-iii/submissions/1274619463",
+    "Runtime": "40ms",
+    "Memory": "60MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}
