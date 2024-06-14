@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Combination Sum III",
+    "Problem URL": "https://leetcode.com/problems/combination-sum-iii/",
+    "Tags": [
+        "dp",
+        "combinatorics"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/combination-sum-iii/submissions/1288162483",
+    "Runtime": "3ms",
+    "Memory": "8MB",
+    "Average Complexity": "O(2^digits)",
+    "Worst Complexity": "O(2^digits)"
+}
