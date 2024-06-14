@@ -14,11 +14,13 @@ data = {}
 #     "Average Complexity" : "",
 #     "Worst Complexity" : ""
 # }
-infos = ["Problem Name", "Problem URL", "Tags", "Difficulty", "Submission", "Runtime", "Memory", "Average Complexity", "Worst Complexity"]
+infos = ["Problem Name", "Problem URL", "Tags", "Difficulty", "Submission", "Runtime", "Memory", "Average Complexity"]
 
 for info in infos:
     print("Enter the " + info + ":")
     data[info] = input()
+
+data["Worst Complexity"] = data["Average Complexity"]
 
 data["Tags"] = [s.strip() for s in data["Tags"].split(",")]
 optimized = False
