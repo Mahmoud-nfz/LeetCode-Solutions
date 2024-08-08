@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Permutation in String",
+    "Problem URL": "https://leetcode.com/problems/permutation-in-string/",
+    "Tags": [
+        "sliding window",
+        "arrays"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/permutation-in-string/submissions/1349348547",
+    "Runtime": "32ms",
+    "Memory": "10.17Mb",
+    "Average Complexity": "O(n*26)",
+    "Worst Complexity": "O(n*26)"
+}

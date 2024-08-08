@@ -44,12 +44,14 @@ The repository is organized according to the problem's difficulty level and its 
 | [Path Sum II](./medium/path_sum_ii/path_sum_ii.md) | [C++](./medium/path_sum_ii/path_sum_ii.md) | Medium | dfs, binary tree |
 | [Longest Increasing Subsequence](./medium/longest_increasing_subsequence/longest_increasing_subsequence.md) | [C++](./medium/longest_increasing_subsequence/longest_increasing_subsequence.md) | Medium | data structures |
 | [Rotate Image](./medium/rotate_image/rotate_image.md) | [C++](./medium/rotate_image/rotate_image.md) | Medium | matrices |
+| [Permutation in String](./medium/permutation_in_string/permutation_in_string.md) | [C++](./medium/permutation_in_string/permutation_in_string.md) | Medium | sliding window, arrays |
 | [Binary Tree Level Order Traversal II](./medium/binary_tree_level_order_traversal_ii/binary_tree_level_order_traversal_ii.md) | [C++](./medium/binary_tree_level_order_traversal_ii/binary_tree_level_order_traversal_ii.md) | Medium | binary tree |
 | [House Robber](./medium/house_robber/house_robber.md) | [C++](./medium/house_robber/house_robber.md) | Medium | dp |
 | [Populating Next Right Pointers in Each Node](./medium/populating_next_right_pointers_in_each_node_i/populating_next_right_pointers_in_each_node_i.md) | [C++](./medium/populating_next_right_pointers_in_each_node_i/populating_next_right_pointers_in_each_node_i.md) | Medium | binary tree, bfs |
 | [Letter Case Permutation](./medium/letter_case_permutation/letter_case_permutation.md) | [C++](./medium/letter_case_permutation/letter_case_permutation.md) | Medium | strings backtracking bruteforce |
 | [Subsets II](./medium/subsets_ii/subsets_ii.md) | [C++](./medium/subsets_ii/subsets_ii.md) | Medium | brute force, subsets |
 | [Fruit Into Baskets](./medium/fruit_into_baskets/fruit_into_baskets.md) | [C++](./medium/fruit_into_baskets/fruit_into_baskets.md) | Medium | arrays |
+| [Combination Sum III](./medium/combination_sum_iii/combination_sum_iii.md) | [C++](./medium/combination_sum_iii/combination_sum_iii.md) | Medium | dp, combinatorics |
 | [Jump Game](./medium/jump_game/jump_game.md) | [C++](./medium/jump_game/jump_game.md) | Medium | dp |
 | [Combination Sum IV](./medium/combination-sum-iv.cpp/combination-sum-iv.cpp.md) | [C++](./medium/combination-sum-iv.cpp/combination-sum-iv.cpp.md) | Medium | DP |
 | [Path Sum III](./medium/path_sum_iii/path_sum_iii.md) | [C++](./medium/path_sum_iii/path_sum_iii.md) | Medium | dp, trees, dfs |
