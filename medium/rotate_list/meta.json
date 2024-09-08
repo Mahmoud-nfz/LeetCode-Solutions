@@ -1,0 +1,13 @@
+{
+    "Problem Name": "Rotate List",
+    "Problem URL": "https://leetcode.com/problems/rotate-list/",
+    "Tags": [
+        "Linked list"
+    ],
+    "Difficulty": "Medium",
+    "Submission": "https://leetcode.com/problems/rotate-list/submissions/1383658689",
+    "Runtime": "3ms",
+    "Memory": "16MB",
+    "Average Complexity": "O(n)",
+    "Worst Complexity": "O(n)"
+}
