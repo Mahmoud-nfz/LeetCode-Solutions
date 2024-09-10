@@ -1,0 +1,14 @@
+{
+    "Problem Name": "Palindrome Pairs",
+    "Problem URL": "https://leetcode.com/problems/palindrome-pairs",
+    "Tags": [
+        "hashing",
+        "strings"
+    ],
+    "Difficulty": "Hard",
+    "Submission": "https://leetcode.com/problems/palindrome-pairs/submissions/1385910188",
+    "Runtime": "648ms",
+    "Memory": "56MB",
+    "Average Complexity": "O(sum( |words[i]|*log(|words|) )",
+    "Worst Complexity": "O(sum( |words[i]|*log(|words|) )"
+}
